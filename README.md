@@ -3,7 +3,7 @@ _Intended as a collaborative project aimed at identifying the color palettes for
 
 Please collaborate.
 
-The difficulty is that: We don't have any original design files, The print process results in a range of color variation, The colors begin to fade immediately, And lighting curcumstances during photography or scanning add an additional variable.
+The difficulty is that: We don't have any original design files, the print process results in a range of color variation, the colors begin to fade immediately, and lighting curcumstances during photography or scanning add an additional variable.
 
 We're using Pantone as a primary control, P Solid Coated. Though, this project is only currently in an RGB file, until such time as someone actually does a print test.
 This color book seems close enough. I'm reasonably happy with the colors, but I have a suspicion that they might have been using a different book, something with those brighter neon colors.
@@ -20,8 +20,8 @@ This color book seems close enough. I'm reasonably happy with the colors, but I 
 * Peach    Not sure, might be faded orange.
 
 ## PC Engine Set
-* Red      PMS
-* Grey     PMS
+* Red      PMS 199 C
+* Grey     PMS 7604 C 50%
 
 ## SuperGrafx Set
 * ..
