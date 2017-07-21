@@ -3,8 +3,7 @@ _Intended as a collaborative project aimed at identifying the color palettes for
 
 __Please create an issue to collaborate.__
 
-The swatches project is where color issues are addressed:
-
+This is a source project for:
 https://github.com/vinceroni/TG16-PCE-US-Box-Templates
 
 The difficulty is that: We don't have any original design files, the print process results in a range of color variation, the colors begin to fade immediately, and lighting curcumstances during photography or scanning add an additional variable.
